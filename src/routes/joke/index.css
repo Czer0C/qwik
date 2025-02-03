@@ -1,0 +1,12 @@
+p {
+  font-weight: bold;
+}
+ 
+form {
+  /* float: right; */
+  background: #00ffff;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
